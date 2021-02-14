@@ -1,4 +1,4 @@
 1-Data Structures (University of California San Diego
 HSE University)
 2-Introduction to Structured Query Language (SQL)
-3-Testing Git
+3-Learn Git : https://www.youtube.com/watch?v=SWYqp7iY_Tc
